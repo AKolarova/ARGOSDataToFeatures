@@ -10,3 +10,6 @@
 ## Author: andrea.kolarova@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
 
+#%% Import packages
+import arcpy, sys, os
+
